@@ -1,9 +1,5 @@
-# Discord-Clone
-Unsure what to name it ....
+# PrivChat Aka discord clone 
+the chat app will allow you to have seacure chats with end to end encryption. Similer to Discord we will habve friends and a server system which will allow you to chat freely. Althought you have to adbide by some basic Rule. to inforces these rules we will have a bot to montuire and report susition actiity to use so we cannt see what you are saying and you chat unless you flag our bot.  
 
-# About 
-
-This is a discord Remake i am trying to make to learn a bit more about Tailwind css and React this will also not have as many snooping features that discord has and is planned to be way more custimizable 
-
-
-This wil also be made on eletron to
+# WIP 
+More info coming soon. 100% open source 
